@@ -26,7 +26,7 @@
     "https": "^1.0.0",
     "image-downloader": "^3.4.2",
     "jsonwebtoken": "^8.5.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "mocha-http": "^0.2.5",
     "mockgoose": "^8.0.2",
     "mongo-mock": "^3.7.1",
